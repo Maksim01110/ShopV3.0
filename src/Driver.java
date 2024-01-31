@@ -22,7 +22,7 @@ public class Driver {
                    ----------------------------
                    3) List the current products
                    4) Display average product unit cost
-                   5) Display cheapest product
+                   5) Display cheapest producb
                    6) List products that are more expensive than a given price
                    ----------------------------
                    0) Exit
